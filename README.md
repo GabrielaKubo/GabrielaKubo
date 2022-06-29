@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 🖐  I’m Gabriela Akemi, currently a college student at SPTech.
 
 <!--
 **GabrielaKubo/GabrielaKubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
