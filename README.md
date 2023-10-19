@@ -1,4 +1,7 @@
-Hi there 🖐  I’m Gabriela Akemi, currently a college student at SPTech.
+<h1 align="center">Hi there 🖐</h1>
+
+<h3 align="center">I’m Gabriela Akemi, currently a college student at SPTech.</h3>
+  
 
 <div>
   <a href="https://github.com/GabrielaKubo">
